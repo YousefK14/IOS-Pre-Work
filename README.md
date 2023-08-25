@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Alt Text](https://i.imgur.com/example.gif)
+![Preview](https://imgur.com/uszTwuc.gif)
 
 
 GIF created with ezgif.com
