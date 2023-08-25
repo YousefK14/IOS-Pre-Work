@@ -15,7 +15,6 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 ![Preview](https://imgur.com/uszTwuc.gif)
 
 
