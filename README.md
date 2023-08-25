@@ -41,7 +41,7 @@ App Idea: CalorieMate: Easy Calorie Tracker
 
 Idea Description: CalorieMate is a straightforward app that lets users quickly log their daily meals and snacks to keep track of their calorie intake for easy and simplified dietary management.
 
-While developing this app, I faced a notable hurdle with Swift - specifically, linking the user interface to the underlying logic posed a significant challenge for me.
+While developing the clicker app, I faced a notable hurdle with Swift - specifically, linking the user interface to the underlying logic posed a significant challenge for me.
 
 ## License
 
