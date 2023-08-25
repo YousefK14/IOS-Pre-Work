@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Clicker App Preview](https://imgur.com/a/XPc15pS)
+![Clicker App Preview](https://imgur.com/uszTwuc)
 
 
 GIF created with ezgif.com
