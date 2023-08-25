@@ -37,9 +37,7 @@ Spotify:
 Personalized Playlists: Curates playlists based on your music preferences and listening history.
 Discover Weekly: Generates a new playlist each week with music recommendations tailored to your taste.
 
-App Idea: 
-
-CalorieMate: Easy Calorie Tracker
+App Idea: CalorieMate: Easy Calorie Tracker
 
 Idea Description: CalorieMate is a straightforward app that lets users quickly log their daily meals and snacks to keep track of their calorie intake for easy and simplified dietary management.
 
