@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Clicker App Preview](https://imgur.com/uszTwuc)
+<blockquote class="imgur-embed-pub" lang="en" data-id="uszTwuc" data-context="false" ><a href="//imgur.com/uszTwuc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 GIF created with ezgif.com
