@@ -22,9 +22,25 @@ GIF created with ezgif.com
 
 ## App Brainstorming (Step 4)
 
-## Notes
+Google Maps:
 
-One challenge that i encounterd during the process of making this app was connecting the UI to Logic.
+Navigation: Provides accurate turn-by-turn navigation for various modes of transport, making it easy to find your way.
+Real-Time Traffic: Offers live traffic updates to help you avoid congestion and choose the fastest route.
+
+MyFitnessPal:
+
+Calorie Tracking: Allows users to log their daily food intake, helping them monitor their calorie consumption.
+Exercise Logging: Lets users record their workouts and physical activities, providing a comprehensive view of their fitness routine.
+
+Spotify:
+
+Personalized Playlists: Curates playlists based on your music preferences and listening history.
+Discover Weekly: Generates a new playlist each week with music recommendations tailored to your taste.
+
+App Idea: CalorieMate: Easy Calorie Tracker
+Idea Description: CalorieMate is a straightforward app that lets users quickly log their daily meals and snacks to keep track of their calorie intake for easy and simplified dietary management.
+
+While developing this app, I faced a notable hurdle with Swift - specifically, linking the user interface to the underlying logic posed a significant challenge for me.
 
 ## License
 
