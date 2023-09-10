@@ -14,8 +14,9 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-![Preview](https://imgur.com/uszTwuc.gif)
+<div style="float: left; margin-right: 10px;">
+  <img src="https://imgur.com/uszTwuc.gif" alt="Preview" width="300">
+</div>
 
 
 GIF created with ezgif.com
