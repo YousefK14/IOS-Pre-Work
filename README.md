@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 <div style="float: left; margin-right: 10px;">
-  <img src="https://imgur.com/uszTwuc.gif" alt="Preview" width="300">
+  <img src="https://imgur.com/uszTwuc.gif" alt="Preview" width="250">
 </div>
 
 
